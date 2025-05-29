@@ -71,5 +71,5 @@ Based on the data presented in the dashboard:
     * The **USA** contributes **13%** of the regional revenue, making it another key market.
 
 
-## **Dashboard:**  <a href="financial analysis dashboard.pbix">financial analysis dashboard.pbix</a>
-## **Dashboard:**  <a href="financial analysis dashboard.pdf">financial analysis dashboard.pdf</a>
+## **Dashboard.pbix:**  <a href="financial analysis dashboard.pbix">financial analysis dashboard.pbix</a>
+## **Dashboard.pdf:**  <a href="financial analysis dashboard.pdf">financial analysis dashboard.pdf</a>
