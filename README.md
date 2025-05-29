@@ -1,4 +1,4 @@
-# ABC Financial Analysis Dashboard (Power BI)
+# Financial Revenue Analysis Dashboard (Power BI)
 
 ## Project Overview
 This repository contains a comprehensive Financial Analysis Dashboard of ABC Company built using Power BI, designed to provide actionable insights into revenue performance, geographical sales, product success, and individual sales representative effectiveness. The dashboard leverages a detailed financial dataset to visualize key metrics and trends, enabling data-driven decision-making.
